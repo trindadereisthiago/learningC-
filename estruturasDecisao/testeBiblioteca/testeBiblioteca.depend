@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717444871 source:c:\users\trind\learningc-\ifsc\estruturasdecisao\testebiblioteca\main.c
+	<stdio.h>
+	<string.h>
+
