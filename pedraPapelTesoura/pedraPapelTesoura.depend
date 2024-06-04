@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717527175 source:c:\users\trind\learningc-\ifsc\pedrapapeltesoura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
